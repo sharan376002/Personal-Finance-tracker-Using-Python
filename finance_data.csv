@@ -1,0 +1,33 @@
+date,amount,category,description
+01-01-22, 150.00,Expense, Grocery shopping
+02-01-22, 200.00,Income, Salary payment
+03-01-22, 50.00,Expense, Eating out
+04-01-22, 120.00,Expense, Utility bill
+05-01-22, 300.00,Income, Freelance work
+06-01-22, 75.00,Expense, Car repair
+07-01-22, 180.00,Income, Gift received
+08-01-22, 60.00,Expense, Rent payment
+09-01-22, 400.00,Income, Salary payment
+10-01-22, 85.00,Expense, Grocery shopping
+11-01-22, 250.00,Income, Freelance work
+12-01-22, 90.00,Expense, Utility bill
+13-01-22, 100.00,Expense, Eating out
+14-01-22, 500.00,Income, Salary payment
+15-01-22, 70.00,Expense, Car repair
+16-01-22, 150.00,Income, Gift received
+17-01-22, 120.00,Expense, Rent payment
+18-01-22, 350.00,Income, Freelance work
+19-01-22, 65.00,Expense, Grocery shopping
+20-01-22, 300.00,Income, Salary payment
+21-01-22, 55.00,Expense, Eating out
+22-01-22, 450.00,Income, Freelance work
+23-01-22, 110.00,Expense, Utility bill
+24-01-22, 200.00,Income, Gift received
+25-01-22, 80.00,Expense, Car repair
+26-01-22, 500.00,Income, Salary payment
+27-01-22, 130.00,Expense, Rent payment
+28-01-22, 300.00,Income, Freelance work
+29-01-22, 70.00,Expense, Grocery shopping
+30-01-22, 400.00,Income, Salary payment
+
+
